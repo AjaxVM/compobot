@@ -1,0 +1,1 @@
+CompoBot offers a new way of managing teams during coding competitions via IRC. The bot is entirely written in Python using the Twisted library for networking calls.
